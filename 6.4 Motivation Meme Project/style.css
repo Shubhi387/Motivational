@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(167 161 228);;
+  }
+  #image{
+    width: 600px;
+    height: 400px;
+    border: 10px solid rgb(0, 0, 0);
+  }
+  .poster{
+    text-align: center;
+  }
+  h3{
+    font-size: 50px;
+    color: white;
+    margin: 1px;
+    background-color: black;
+  }
